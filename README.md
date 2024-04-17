@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Profile Banner" width="100%">
+
 
 <h1 align="center">Hi 👋, I'm Kovvuru Rajesh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
