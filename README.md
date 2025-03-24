@@ -16,8 +16,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kovvururajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kovvururajesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kovvuru rajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kovvuru rajesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kovvuru-rajesh-80a43323a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kovvururajesh" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Rajesh_Kovvuru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kovvuru rajesh" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/kovvururajesh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your-kaggle-username" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
