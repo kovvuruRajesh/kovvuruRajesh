@@ -25,7 +25,7 @@
 ## 🚀 About Me  
 🔭 Currently working on **Large Language Models (LLMs)**  
 📊 Kaggle Expert with **15+ published notebooks**  
-📹 **YouTuber** at [The Outliers Club](https://www.youtube.com/@TheOutliersClub) - **500+ subscribers**  
+📹 **YouTuber** at [The Outliers Club](https://www.youtube.com/@TheOutliersClub) - **250+ subscribers**  
 💬 Ask me about **Data Science, ML, NLP, and Deep Learning**  
 📧 Reach me at **kovvururajesh8@gmail.com**  
 
@@ -37,7 +37,7 @@ I create **high-quality technical content** covering:
 ✔ Hands-on Data Science Projects  
 ✔ Advanced NLP & Generative AI (LLMs, Transformers)  
 
-🔥 **Join 500+ learners!** [Subscribe Here](https://www.youtube.com/@TheOutliersClub)  
+🔥 **Join 250+ learners!** [Subscribe Here](https://www.youtube.com/@TheOutliersClub)  
 
 ---
 
